@@ -21,7 +21,7 @@ class _DtiSauState extends State<DtiSau> {
   Widget build(BuildContext context) {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: SignupUI(),
+      home: WelcomeUI(),
     );
   }
 }
